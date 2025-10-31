@@ -1,1 +1,0 @@
-{"libraryName":"","modules":{"AppRatingBarView":{"type":"Component","components":{"AppRatingBarView":{"interfaceOnly":true,"extendsProps":[{"type":"ReactNativeBuiltInType","knownTypeName":"ReactNativeCoreViewProps"}],"events":[],"props":[{"name":"numStars","optional":false,"typeAnnotation":{"type":"Int32TypeAnnotation","default":0}}],"commands":[]}}}}}
