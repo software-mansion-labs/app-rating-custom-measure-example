@@ -1,0 +1,19 @@
+{
+  "name": "react-native-app-rating-bar",
+  "version": "0.0.0",
+  "description": "description",
+  "main": "src/index",
+  "codegenConfig": {
+    "name": "AppRatingBarViewSpec",
+    "type": "all",
+    "jsSrcsDir": "src"
+  },
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme",
+  "create-react-native-library": {
+    "languages": "kotlin-objc",
+    "type": "fabric-view",
+    "version": "0.54.8"
+  }
+}
