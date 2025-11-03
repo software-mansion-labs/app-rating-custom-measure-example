@@ -3,6 +3,8 @@
 This is an example Expo project that demonstrates how to provide custom measurements for the native Android component.
 It uses the [AppCompatRatingBar](https://developer.android.com/reference/androidx/appcompat/widget/AppCompatRatingBar) as an example component.
 
+![demo](https://github.com/user-attachments/assets/caa5c770-6a36-454a-880d-dce1533f84ee)
+
 ## Get started
 
 1. Install dependencies
