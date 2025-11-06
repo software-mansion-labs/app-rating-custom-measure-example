@@ -176,9 +176,6 @@ const styles = StyleSheet.create({
     alignSelf: "stretch",
     alignItems: "center",
   },
-  submitDisabled: {
-    opacity: 0.5,
-  },
   submitText: {
     color: "#fff",
     fontWeight: "700",
