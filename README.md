@@ -13,16 +13,16 @@ It uses the [AppCompatRatingBar](https://developer.android.com/reference/android
    yarn install
    ```
 
-2. Start the app
-
-   ```bash
-   yarn expo start
-   ```
-   
-3. Prebuild the app to generate native code
+2. Prebuild the app to generate native code
 
    ```bash
    yarn expo prebuild
+   ```
+
+3. Start the app
+
+   ```bash
+   yarn expo start
    ```
    
 4. Run the app
